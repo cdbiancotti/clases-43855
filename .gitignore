@@ -1,0 +1,5 @@
+venv-clases
+__pycache__
+carpeta/no_me_sigan.txt
+el_paquetito.egg-info
+dist
